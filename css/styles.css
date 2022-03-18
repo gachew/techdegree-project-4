@@ -125,6 +125,9 @@
   color: #fff;
   background-color: #58e1c1; }
 
+/* ============================================= */
+/*              Media Queries                    */
+/* ============================================= */
 @media (min-width: 768px) {
   .container {
     max-width: 1400px;
